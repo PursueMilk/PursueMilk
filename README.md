@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @PursueMilk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align=center>Hi👋, I’m PursueMilk</h1>
 
-<!---
-PursueMilk/PursueMilk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align=center><img src="https://online-education-unicorn.oss-cn-guangzhou.aliyuncs.com/backiee-194677.jpg" width="80%" height="80%" /></div>
+
+- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
+
+<div align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=PursueMilk&show_icons=true&count_private=true&hide=prs&theme=default_repocard">
+</div>
+
+<div>
+<img src="https://activity-graph.herokuapp.com/graph?username=PursueMilk&theme=react">
+</div>
+
+
+### 关于我
+- [CSDN](https://blog.csdn.net/m0_53232550)
