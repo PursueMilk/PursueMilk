@@ -1,6 +1,7 @@
 <h1 align=center>Hi👋, I’m PursueMilk</h1>
 
-<div align=center><img src="https://online-education-unicorn.oss-cn-guangzhou.aliyuncs.com/backiee-194677.jpg" width="80%" height="80%" /></div>
+
+<div align=center><img src="https://cdn.jsdelivr.net/gh/PursueMilk/img@master/img/backiee-194677.jpg" width="80%" height="80%" /></div>
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 
