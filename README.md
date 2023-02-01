@@ -1,6 +1,6 @@
-### Hi there 👋 
+## Hi there 👋 
 
-### This is PursueMilk!
+## This is PursueMilk!
 
 Welcome to my Github page! I am a Computer Engineering Undergraduate Student. & Open Source enthusiast.
 
@@ -29,7 +29,7 @@ Welcome to my Github page! I am a Computer Engineering Undergraduate Student. & 
 
 * [校园论坛](https://github.com/PursueMilk/chat)
 
-### 关于我
+## 关于我
 
 - [个人博客](https://pursuemilk.github.io/)
 - [CSDN](https://blog.csdn.net/m0_53232550)
